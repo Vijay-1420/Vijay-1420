@@ -1,4 +1,5 @@
-![Uploading banner.png…]()
+<img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/956a908b-eca9-4ba4-97aa-77cc7882c4a4" />
+
 <h1 align="center">Hi 👋, I'm Vijayasarathy B</h1>
 
 <h3 align="center">AI & Data Science Student | Python Developer | Machine Learning Student</h3>
