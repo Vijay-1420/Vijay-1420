@@ -1,3 +1,4 @@
+![Uploading banner.png…]()
 <h1 align="center">Hi 👋, I'm Vijayasarathy B</h1>
 
 <h3 align="center">AI & Data Science Student | Python Developer | Machine Learning Student</h3>
